@@ -14,3 +14,6 @@ function substract(a,b){s
     return a-b;
 }
 
+function sum (x,y) {
+    return x+y;
+}
